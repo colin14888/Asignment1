@@ -1,0 +1,5 @@
+1.use a array to store the information of person
+
+2.The person class is a common class and Driver class is a important class to Driver the program,finally the Mininet class is a test class.
+
+3.In the class ,we find connections by call a check function and check there are whether all adult or all children,  also check if age less than 2, it doesn't have friend ,the information store in a array and we just only check whether there are in the same array.

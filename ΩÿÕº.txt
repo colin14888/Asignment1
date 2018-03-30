@@ -1,0 +1,217 @@
+MiniNet Menu
+===================================
+1. Add person
+2. List everyone
+3. Select a person
+4. Display selected person
+5. Delete selected person
+6. Connect selected  person to another
+7. Find selected person¡¯s child
+8. Find selected person¡¯s parent
+9. Check friendship between selected person and another
+0. Exit
+===================================
+Please input a choice: 
+1
+Please input name, age and status: 
+zs
+45
+clerk
+Please input the name,age and status of  parents and child : 
+dad
+78
+mgr
+mom
+75
+banker
+john
+10
+stu
+MiniNet Menu
+===================================
+1. Add person
+2. List everyone
+3. Select a person
+4. Display selected person
+5. Delete selected person
+6. Connect selected  person to another
+7. Find selected person¡¯s child
+8. Find selected person¡¯s parent
+9. Check friendship between selected person and another
+0. Exit
+===================================
+Please input a choice: 
+2
+Person{name='zs', age=45, status='clerk'}
+MiniNet Menu
+===================================
+1. Add person
+2. List everyone
+3. Select a person
+4. Display selected person
+5. Delete selected person
+6. Connect selected  person to another
+7. Find selected person¡¯s child
+8. Find selected person¡¯s parent
+9. Check friendship between selected person and another
+0. Exit
+===================================
+Please input a choice: 
+3
+Please input a num :
+1
+Person{name='zs', age=45, status='clerk'}
+MiniNet Menu
+===================================
+1. Add person
+2. List everyone
+3. Select a person
+4. Display selected person
+5. Delete selected person
+6. Connect selected  person to another
+7. Find selected person¡¯s child
+8. Find selected person¡¯s parent
+9. Check friendship between selected person and another
+0. Exit
+===================================
+Please input a choice: 
+4
+Please input a name of person: 
+zs
+Person{name='zs', age=45, status='clerk'}
+MiniNet Menu
+===================================
+1. Add person
+2. List everyone
+3. Select a person
+4. Display selected person
+5. Delete selected person
+6. Connect selected  person to another
+7. Find selected person¡¯s child
+8. Find selected person¡¯s parent
+9. Check friendship between selected person and another
+0. Exit
+===================================
+Please input a choice: 
+6
+Please input two names and age to connect: 
+zs
+45
+dd
+10
+
+das
+MiniNet Menu
+===================================
+1. Add person
+2. List everyone
+3. Select a person
+4. Display selected person
+5. Delete selected person
+6. Connect selected  person to another
+7. Find selected person¡¯s child
+8. Find selected person¡¯s parent
+9. Check friendship between selected person and another
+0. Exit
+===================================
+Please input a choice: 
+7
+Please input name and age :
+zs
+45
+john 10 stu
+MiniNet Menu
+===================================
+1. Add person
+2. List everyone
+3. Select a person
+4. Display selected person
+5. Delete selected person
+6. Connect selected  person to another
+7. Find selected person¡¯s child
+8. Find selected person¡¯s parent
+9. Check friendship between selected person and another
+0. Exit
+===================================
+Please input a choice: 
+8
+Please input name and age :
+zs
+45
+dad 78 mgr
+mom 75 mgr
+MiniNet Menu
+===================================
+1. Add person
+2. List everyone
+3. Select a person
+4. Display selected person
+5. Delete selected person
+6. Connect selected  person to another
+7. Find selected person¡¯s child
+8. Find selected person¡¯s parent
+9. Check friendship between selected person and another
+0. Exit
+===================================
+Please input a choice: 
+9
+Please input two name and age: 
+zs
+45
+dd
+10
+There are not frineds...
+MiniNet Menu
+===================================
+1. Add person
+2. List everyone
+3. Select a person
+4. Display selected person
+5. Delete selected person
+6. Connect selected  person to another
+7. Find selected person¡¯s child
+8. Find selected person¡¯s parent
+9. Check friendship between selected person and another
+0. Exit
+===================================
+Please input a choice: 
+9
+Please input two name and age: 
+das
+45
+zs
+45
+MiniNet Menu
+===================================
+1. Add person
+2. List everyone
+3. Select a person
+4. Display selected person
+5. Delete selected person
+6. Connect selected  person to another
+7. Find selected person¡¯s child
+8. Find selected person¡¯s parent
+9. Check friendship between selected person and another
+0. Exit
+===================================
+Please input a choice: 
+9
+Please input two name and age: 
+zs
+45
+john
+10
+MiniNet Menu
+===================================
+1. Add person
+2. List everyone
+3. Select a person
+4. Display selected person
+5. Delete selected person
+6. Connect selected  person to another
+7. Find selected person¡¯s child
+8. Find selected person¡¯s parent
+9. Check friendship between selected person and another
+0. Exit
+===================================
+Please input a choice: 
